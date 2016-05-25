@@ -1,0 +1,7 @@
+CFLAGS = -Wall -std=gnu99
+
+all : ${EXECUTABLES}
+
+clean :
+	@rm -f core *.o *.out *~
+	@rm -f ${EXECUTABLES}
