@@ -1,0 +1,70 @@
+Remaining budget: 5124
+Collected resources:
+  - WOOD: 1162
+
+Remaining budget: 1936
+Collected resources:
+  - WOOD: 1315
+
+
+
+Remaining budget: 277
+Collected resources:
+  - FUR: 1016
+
+
+Remaining budget: 273
+Collected resources:
+  - WOOD: 4769
+
+
+Game didn't end well :(
+Generating JSON log file
+Generating SVG map file
+
+
+
+Remaining budget: 1794
+Collected resources:
+  - WOOD: 3083
+Generating JSON log file
+Generating SVG map file
+
+Generating JSON POIs file
+
+
+Remaining budget: 381
+Collected resources:
+  - WOOD: 4196
+
+
+Remaining budget: 269
+Collected resources:
+  - WOOD: 3770
+
+
+Game didn't end well :(
+
+
+Remaining budget: 2186
+Collected resources:
+  - WOOD: 5258
+
+
+Remaining budget: 12529
+Collected resources:
+  - QUARTZ: 209
+
+
+Remaining budget: 365
+Collected resources:
+  - WOOD: 4196
+
+
+
+Game didn't end well :(
+
+
+
+Remaining budget: 111
+Collected resources:

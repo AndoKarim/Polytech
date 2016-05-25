@@ -1,0 +1,122 @@
+        //WEEK46                                                                                                                      
+                .backBefore(7000)                5124                                     
+                .withCrew(15)                                                     
+                .collecting(1000, "WOOD")        1162                                             
+                .collecting(300, "QUARTZ")                                                    
+                .collecting(10, "FLOWER")                                                     
+                                                
+                                                
+       //WEEK47                                                                                                  
+                .backBefore(7000)                 1936                                    
+                .withCrew(15)                                                     
+                .collecting(1000, "WOOD")         1315                                            
+                .collecting(300, "QUARTZ")                                                    
+                .collecting(10, "FLOWER")                                                     
+                                                
+                                                
+                                                
+        //WEEK48                                                                                                      
+                .backBefore(10000)                277                                    
+                .withCrew(3)                                                      
+                .collecting(2000, "WOOD")                                                     
+                .collecting(30, "GLASS")                                                      
+                .collecting(1000, "FUR")          1016                                            
+                                                
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////// //WEEK49                                                                                                       
+                .backBefore(10000)                295                                    
+                .withCrew(3)                                                      
+                .collecting(5000, "WOOD")         4386                                            
+                .collecting(1000, "SUGAR_CANE")                                                   
+                .collecting(300, "GLASS")                                                     
+                                                
+                                                
+      ///////////////////////////////////////////  //WEEK50                                                      
+                .backBefore(10000)               613                                     
+                .withCrew(3)                                                      
+                .collecting(5000, "FUR")         967                                             
+                .collecting(1000, "WOOD")                                                     
+                .collecting(300, "GLASS")                                                     
+                                                
+                                                
+        //WEEK51                                                      
+                .backBefore(10000)              1794                                      
+                .withCrew(25)                                                     
+                .collecting(3000, "FUR")        3083                                              
+                .collecting(3000, "WOOD")                                                     
+                .collecting(100, "GLASS")                                                     
+                                                                      
+                                                
+        //WEEK52                                                      
+                .backBefore(10000)             381                                       
+                .withCrew(25)                                                     
+                .collecting(1000, "FUR")                                                      
+                .collecting(4000, "WOOD")      4196                                               
+                .collecting(100, "GLASS")                                                     
+                                                                      
+                                                
+        ////////////////////////////////////////////////////////////WEEK53                                                      
+                .backBefore(10000)             269 /222                                      
+                .withCrew(25)                                                     
+                .collecting(100, "GLASS")                                                     
+                .collecting(5000, "WOOD")      3770 /3107                                              
+                .collecting(80, "FLOWER")                                                     
+                                                                      
+                                                
+        ////////////////////////////////////////WEEK01                                                      
+                .backBefore(15000)            543                                        
+                .withCrew(4)                                                      
+                .collecting(1000, "PLANK")                                                    
+                .collecting(800, "QUARTZ")     107 /73                                            
+                .collecting(3000, "WOOD")                                                     
+                .collecting(80, "FLOWER")                                                     
+                                                                      
+                                                
+        //WEEK02                                                      
+                .backBefore(15000)              2186                                      
+                .withCrew(4)                                                      
+                .collecting(50, "GLASS")                                                      
+                .collecting(200, "QUARTZ")                                                    
+                .collecting(5000, "WOOD")      5258                                               
+                .collecting(40, "FLOWER")                                                     
+                                                                      
+                                                
+        //WEEK03                                                          
+                .backBefore(20000)             12529                                       
+                .withCrew(15)                                                     
+                .collecting(50, "GLASS")                                                      
+                .collecting(200, "QUARTZ")     209                                               
+                .collecting(5000, "WOOD")                                                     
+                .collecting(40, "FLOWER")                                                     
+                                                                      
+                                                
+        //WEEK04                                                              
+                .backBefore(10000)           365                                         
+                .withCrew(25)                                                     
+                .collecting(100, "GLASS")                                                     
+                .collecting(4000, "WOOD")    5196                                                 
+                .collecting(1000, "FUR")                                                      
+                                                                      
+                                                
+        ////////////////////////////////WEEK05                                                              
+                .backBefore(10000)            101                                        
+                .withCrew(25)                                                     
+                .collecting(5000, "PLANK")                                                    
+                .collecting(100, "GLASS")                                                     
+                .collecting(7000, "WOOD")                                                     
+                .collecting(2000, "FUR")      592 /549                                                
+                                                                      
+                                                
+        ///////////////////////////////////WEEK06                                                      
+                .backBefore(10000)             142                                        
+                .withCrew(25)                                                     
+                .collecting(15000, "WOOD")     5477                                               
+                .collecting(100, "GLASS")                                                     
+                                                                      
+                                                
+        //////////////////////////////////////WEEK07                                                      
+                .backBefore(20000)           293                                         
+                .withCrew(25)                                                     
+                .collecting(15000, "WOOD")    8162 / 9285                                               
+                .collecting(30, "LEATHER")                                                    
+                .collecting(100, "GLASS")                                                     
+                                                                      
