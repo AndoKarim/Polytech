@@ -1,0 +1,12 @@
+package lab4;
+
+public class Joueur {
+    Carte paquet;
+    int nombreDePoints;
+    
+    Joueur(Carte cartes){
+        paquet = cartes;
+        nombreDePoints = 0;
+    }
+
+}

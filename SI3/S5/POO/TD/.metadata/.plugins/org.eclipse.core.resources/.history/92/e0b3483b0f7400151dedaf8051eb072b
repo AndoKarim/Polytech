@@ -1,0 +1,16 @@
+package lab4;
+
+public enum Enseigne {
+    TREFLE("trèfle"), CARREAU("carreau"), COEUR("coeur"), PIQUE("pique");
+
+    private String texte;
+    
+    Enseigne (String val){
+        texte = val;
+    }
+    
+    public String getTexte(){
+        return texte;
+    }
+
+}

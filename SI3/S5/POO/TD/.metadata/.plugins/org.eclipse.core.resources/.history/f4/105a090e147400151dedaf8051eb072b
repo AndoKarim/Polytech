@@ -1,0 +1,30 @@
+package lab4;
+
+
+public class Carte {
+    private Enseigne enseigne;
+    private Rang rang;
+
+    public Carte(String ens, String rng) {
+        enseigne = Enseigne.getEnseigne(ens);
+        rang = Rang.getRang(rng);
+    }
+
+    public Enseigne getEnseigne() {
+        return enseigne;
+    }
+
+    public Rang getRang() {
+        return rang;
+    }
+
+    public int comparer(Carte carte){
+        if()
+        
+    }
+
+    public String toString() {
+        return rang.getTexte() + " de " + enseigne.getTexte();
+    }
+
+}

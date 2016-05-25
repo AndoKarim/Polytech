@@ -1,0 +1,40 @@
+package lab4;
+
+public class Carte {
+    private Enseigne enseigne;
+    private Rang rang;
+
+    public Carte(String ens, String rng) {
+        enseigne = Enseigne.getEnseigne(ens);
+        rang = Rang.getRang(rng);
+    }
+
+    public Enseigne getEnseigne() {
+        return enseigne;
+    }
+
+    public Rang getRang() {
+        return rang;
+    }
+
+    //L'ordinal représente "l'indice" de l'énum. Le premier élémen est 0 etc.
+    public int comparer(Carte carte) {
+        if (rang.ordinal() < carte.rang.ordinal())
+            return -1;
+        if (rang.ordinal() > carte.rang.ordinal())
+            return 1;
+        if (rang.ordinal() == carte.rang.ordinal()) {
+            if (enseigne.ordinal() < carte.enseigne.ordinal())
+                return -1;
+            if (enseigne.ordinal() > carte.enseigne.ordinal())
+                return 1;
+        }
+        // Si les deux cartes sont identiques
+        return 0;
+    }
+
+    public String toString() {
+        return rang.getTexte() + " de " + enseigne.getTexte();
+    }
+
+}

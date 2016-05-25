@@ -1,0 +1,39 @@
+package lab4;
+
+public class Carte {
+    enum Enseigne{
+        TREFLE(1),CARREAU(2),COEUR(3),PIQUE(4);
+    }
+
+    
+    String enseigne; 
+    String rang;
+    
+    
+    public Carte(String ens, String rng){
+        enseigne = ens;
+        rang = rng;
+        
+    }
+    
+    public String getEnseigne() {
+        return enseigne;
+    }
+    public String getRang() {
+        return rang;
+    }
+    
+    public int comparer(Carte carte){
+        if()
+        
+    }
+  
+   public String toString(){
+       return rang + " de " + enseigne;      
+   }
+    
+    
+    
+    
+    
+}

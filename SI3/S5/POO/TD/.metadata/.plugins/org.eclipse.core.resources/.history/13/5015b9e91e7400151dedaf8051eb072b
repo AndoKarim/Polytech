@@ -1,0 +1,8 @@
+package lab4;
+
+import java.util.ArrayList;
+
+public class Jeu {
+    private ArrayList<Carte> arr = new ArrayList<Carte>(52);
+
+}

@@ -1,0 +1,32 @@
+package lab4;
+
+public class Joueur {
+    public static int idJoueurs = 1;
+    
+    private int id;
+    private Jeu paquet;
+    private int nombreDePoints;
+    
+    Joueur(Jeu cartes){
+        id = idJoueurs++;
+        paquet = cartes;
+        nombreDePoints = 0;
+    }
+    
+    public Jeu getPaquet(){
+        return paquet;
+    }
+    
+    public int getNbPoints(){
+        return nombreDePoints;
+    }
+    
+    public void gagner(){
+        nombreDePoints +=1;
+    }
+    
+    public Carte tirer(){
+       return paquet.tirer();
+    }
+
+}

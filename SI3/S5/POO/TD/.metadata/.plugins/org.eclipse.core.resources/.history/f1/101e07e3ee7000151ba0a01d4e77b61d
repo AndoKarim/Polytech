@@ -1,0 +1,16 @@
+package lab4;
+
+public class Carte {
+    
+    String enseigne; 
+    String rang;
+    public Carte(String ens, String rng){
+        enseigne = ens;
+        rang = rng;
+        
+    }
+    
+    
+    
+    
+}

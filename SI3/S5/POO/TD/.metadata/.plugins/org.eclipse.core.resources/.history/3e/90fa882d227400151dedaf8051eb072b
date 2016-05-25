@@ -1,0 +1,10 @@
+package lab4;
+
+public class Joueur {
+    Carte paquet;
+    
+    Joueur(Carte cartes){
+        paquet = cartes;
+    }
+
+}

@@ -1,0 +1,34 @@
+package lab4;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Jeu {
+    private ArrayList<Carte> jeuCartes = new ArrayList<Carte>(52);
+    private boolean melanger = false;
+
+    public Jeu() {
+        for (Enseigne ens : Enseigne.values()) {
+            for (Rang rng : Rang.values())
+                jeuCartes.add(new Carte(ens.getTexte(), rng.getTexte()));
+        }
+    }
+    
+    public void battre(){
+        melanger = true ;  
+        Collections.shuffle(jeuCartes);
+    }
+    
+    public ArrayList<Carte> getJeu(){
+        return jeuCartes;
+    }
+    
+    public Carte tirer(){
+        if(jeuCartes.isEmpty())
+            return null;
+        if(!melanger)
+            battre();
+        return jeuCartes.remove(0);
+    }
+
+}

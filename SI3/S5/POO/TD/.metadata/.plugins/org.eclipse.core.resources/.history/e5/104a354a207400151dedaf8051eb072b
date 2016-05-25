@@ -1,0 +1,22 @@
+package lab4;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Jeu {
+    private ArrayList<Carte> jeuCartes = new ArrayList<Carte>(52);
+    private boolean isShuffled = false;
+
+    public Jeu() {
+        for (Enseigne ens : Enseigne.values()) {
+            for (Rang rng : Rang.values())
+                jeuCartes.add(new Carte(ens.getTexte(), rng.getTexte()));
+        }
+    }
+    
+    public Jeu battre(){
+        isShuffled = true ; 
+        return Collections.shuffle(jeuCartes);
+    }
+
+}

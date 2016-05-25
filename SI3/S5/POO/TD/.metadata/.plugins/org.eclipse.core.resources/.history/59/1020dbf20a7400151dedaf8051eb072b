@@ -1,0 +1,5 @@
+package lab4;
+
+public enum Enseigne {
+    TREFLE("trèfle"), CARREAU("carreau"), COEUR("coeur"), PIQUE("pique");
+}

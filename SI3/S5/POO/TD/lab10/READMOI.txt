@@ -1,0 +1,14 @@
+ANDOLERZAK / KALOUSTIAN / GNING
+
+- Open Terminal
+
+- Go at the same level of src
+
+- Create a build/classes folder
+
+- javac -cp build/classes -d build/classes src/app/people/*.java src/app/view/*.java src/app/viruses/*.java src/app/Main.java
+
+- java -cp build/classes app/Main
+
+
+Thanks to the author of the views and thanks to Mr Peter Sanders for this POO class.

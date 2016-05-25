@@ -1,0 +1,39 @@
+/**
+ * @author Karim
+ */
+package lab4;
+
+public class Joueur {
+    public static int AUTO_INCREMENT = 0;
+
+    private int id;
+    private Jeu paquet;
+    private int nombreDePoints;
+
+    Joueur(Jeu cartes) {
+        id = ++AUTO_INCREMENT;
+        paquet = cartes;
+        nombreDePoints = 0;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public Jeu getPaquet() {
+        return paquet;
+    }
+
+    public int getNbPoints() {
+        return nombreDePoints;
+    }
+
+    public void gagner() {
+        nombreDePoints += 1;
+    }
+
+    public Carte tirer() {
+        return paquet.tirer();
+    }
+
+}
