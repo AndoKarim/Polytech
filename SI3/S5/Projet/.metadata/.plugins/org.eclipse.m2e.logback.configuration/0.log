@@ -1,0 +1,59 @@
+2015-10-05 17:20:00,317 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-05 17:20:00,713 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proto-java/src/main/java
+2015-10-05 17:20:00,714 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proto-java/src/main/resources
+2015-10-05 17:20:00,715 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proto-java/src/test/java
+2015-10-05 17:20:01,267 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-05 17:20:01,954 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-05 17:20:02,105 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:02,112 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-05 17:20:02,123 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:02,124 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:20:03,110 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-05 17:20:03,299 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:03,302 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 17:20:03,304 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:03,304 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:20:26,350 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-05 17:20:26,371 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:26,373 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-05 17:20:26,377 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:26,378 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:20:32,119 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-05 17:20:32,144 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:32,144 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-05 17:20:32,145 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:32,146 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:20:55,552 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:55,552 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-05 17:20:55,554 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:20:55,555 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:21:14,671 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:21:14,671 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-05 17:21:14,672 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:21:14,673 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-05 17:34:49,467 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:34:49,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-05 17:34:49,485 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 17:34:49,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-06 21:06:56,718 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:06:56,749 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-06 21:06:56,752 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:06:56,753 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-06 21:14:01,984 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:14:01,989 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-06 21:14:01,995 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:14:01,996 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-06 21:23:24,910 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:23:24,912 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-06 21:23:24,915 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-06 21:23:24,915 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-14 14:10:48,285 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-14 14:10:49,254 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-14 14:10:49,254 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-14 14:10:49,270 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-14 14:10:49,270 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
+2015-10-14 14:10:49,285 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tela-poly:tela-poly:1.0-SNAPSHOT @ C:\Users\Karim\Desktop\SI3\Projet\proto-java\pom.xml.
+2015-10-14 14:10:50,325 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-14 14:10:50,325 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\main\resources
+2015-10-14 14:10:50,325 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-14 14:10:50,325 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karim\Desktop\SI3\Projet\proto-java\src\test\resources
