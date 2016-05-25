@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Exo2_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="1.1732237228" zoom="567.6666666667" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="ARTIST" value="DJ Karim"/>
+		<tag name="TITLE" value="TD1"/>
+	</tags>
+	<wavetrack name="Piste audio" channel="2" linked="0" mute="0" solo="0" height="321" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="132300">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c06.au" len="132300" min="-0.498015" max="0.499344" rms="0.07795"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="20">
+				<controlpoint t="0.061655901351" val="0.593354105949"/>
+				<controlpoint t="0.155020551967" val="0.961608052254"/>
+				<controlpoint t="0.422783323547" val="0.567957282066"/>
+				<controlpoint t="0.803288314739" val="0.895534813404"/>
+				<controlpoint t="1.307105108632" val="0.593354105949"/>
+				<controlpoint t="1.458602466236" val="0.961608052254"/>
+				<controlpoint t="1.502642395772" val="0.602877855301"/>
+				<controlpoint t="1.606576629477" val="0.891766786575"/>
+				<controlpoint t="1.745742806811" val="0.952084243298"/>
+				<controlpoint t="1.789782736348" val="0.860020756721"/>
+				<controlpoint t="1.839107457428" val="0.885417580605"/>
+				<controlpoint t="1.907809747504" val="0.961608052254"/>
+				<controlpoint t="1.937756899589" val="0.898115992546"/>
+				<controlpoint t="1.994128009395" val="0.869544565678"/>
+				<controlpoint t="2.020551967117" val="0.910814404488"/>
+				<controlpoint t="2.073399882560" val="0.860020756721"/>
+				<controlpoint t="2.112155020552" val="0.850496947765"/>
+				<controlpoint t="2.166764533177" val="0.834623932838"/>
+				<controlpoint t="2.240751614797" val="0.860020756721"/>
+				<controlpoint t="2.344685848503" val="0.943153858185"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
